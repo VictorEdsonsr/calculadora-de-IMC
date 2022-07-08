@@ -81,3 +81,15 @@ h1 {
     justify-content: center;
     margin: 0 auto;
 }
+
+.good {
+    margin-top: 15px;
+    padding: 20px;
+    background-color: rgb(128, 243, 128);
+}
+
+.bad {
+    margin-top: 15px;
+    padding: 20px;
+    background-color: rgb(250, 123, 123);
+}
